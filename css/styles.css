@@ -1,0 +1,19 @@
+
+
+div {
+  column-count: 3;
+  column-gap: 40px;
+  column-rule: 1px solid lightblue;
+}
+
+.adopt1 {
+  float: left;
+}
+
+.adopt2 {
+  float: left;
+}
+
+.adopt3 {
+  float: left;
+}
